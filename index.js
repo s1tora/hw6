@@ -32,3 +32,4 @@ var video = document.querySelector("#videoElement");
                 video.srcObject = null;
             }
         })
+
