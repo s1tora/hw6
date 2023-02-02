@@ -1,4 +1,4 @@
-
+document.addEventListener("DOMContentLoaded", function(event) {
 const videoElement = document.getElementById('video');
 const canvas = document.getElementById('canvas');
 
@@ -104,3 +104,4 @@ async function perform(net) {
       edgeBlurAmount, flipHorizontal);
   }
 }
+})
