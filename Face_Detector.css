@@ -10,6 +10,10 @@ body {
     height: 100%;
 }
 
+#video {
+    margin: 0 auto;
+}
+
 .col-6 {
     max-width: 100%;
 }
